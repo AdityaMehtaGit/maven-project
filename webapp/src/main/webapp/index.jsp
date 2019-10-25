@@ -1,1 +1,1 @@
-Hello, to GlobalLogic World! 
+Wellcome, to GlobalLogic World! 
